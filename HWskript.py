@@ -7,3 +7,4 @@ df = pd.DataFrame(data)
 df
 
 R= df_2.interval.max()-df_2.interval.min()
+R
